@@ -38,6 +38,7 @@ Pick a data source and define what you want to do. You can use a real-time sourc
 Describe the API you intend to use, including it’s properties (rate-limiting, authorization method, API methods, etc.). Use [data modelling techniques](https://www.ibm.com/cloud/learn/data-modeling) to map the data in your API to get a grip on the structure of the data you will use. If you’ve picked a really extensive API you only need to map those parts you will actually use in your **meaningful** realtime app. Please start out by using a pencil and paper to model your data. Begin with a conceptual datamodel, adding more and more detail to move through a logical towards a physical data model. Don’t spend too much time on getting the details on relations... Snap a photo with your phone and add your sketches to the [README.md](../README.md) file.
 
 **Hint:** if you really want to go berserk on the data-model you can use your favourite drawing program or [https://asciiflow.com/](https://asciiflow.com/) if you want to let your inner nerd out (example below).
+
 ```
 ┌─────────────┐          ┌──────────┐
 │uniqueID:int ├──────────┤thisID:int│

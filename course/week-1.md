@@ -36,9 +36,8 @@ Set-up [Express](https://expressjs.com/en/4x/api.html) for static file serving o
 ### Implement socket.io
 Set-up [socket.io](https://socket.io/). Create a basic real-time app using sockets. Bare minimum is a successful message from client to server and from server to all connected clients (“round trip”). You can use the [live coded example](https://github.com/ju5tu5/barebonechat) or the [chat demo from socket.io](https://socket.io/get-started/chat/) to get started.
 
-### Deploy on Heroku
-Get your app running on [Heroku](https://www.heroku.com/)! First install the [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli) if you didn’t already.
-Add a link to your live demo  and a screenshot showing of your team page including the new chat functionality at the top of your readme.
+### Deploy on Cyclic.sh
+Get your app running on [Cyclic](https://www.cyclic.sh/)! Add a link to your live demo to your project and a screenshot showing of your team page including the new chat functionality at the top of your readme.
 
 **Note:** Don’t 😱 if this doesn’t work out: there’s plenty time to deploy in week 2 or week 3. But it may be advantageous to deploy now so you can make sure all team members understand how to do this.
 
@@ -86,8 +85,7 @@ You’ve probably read all these before in [assignment 1](#assignment-1-make-it-
 - [Socket.io](https://socket.io/)
 - [Live coded example](https://github.com/ju5tu5/barebonechat)
 - [Chat demo from socket.io](https://socket.io/get-started/chat/)
-- [Heroku](https://www.heroku.com/)
-- [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli) 
+- [Cyclic](https://www.cyclic.sh/)
 
 ### Extra challenges
 Again, try to add extra features from the list below to your basic chat app. Do this one step at a time. Ask for help if you need it! **Note**:Again, update your readme zealously :P 
