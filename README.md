@@ -11,7 +11,7 @@
 ## Synopsis
 - Course: Real-Time Web
 - Course Coordinator: Justus Sturkenboom ([@ju5tu5](https://github.com/ju5tu5))
-- Minor Coordinator(s): [@roberrrt-s](https://github.com/roberrrt-s) & [@vasilisvg](https://github.com/vasilisvg)
+- Minor Coordinator(s): Robert Spier ([@roberrrt-s](https://github.com/roberrrt-s)) & Vasilis van Gemert ([@vasilisvg](https://github.com/vasilisvg))
 - Lecturers: Shyanta Vleugel ([@shyanta](https://github.com/shyanta)) & Justus Sturkenboom ([@ju5tu5](https://github.com/ju5tu5))
 - Student Assistants: 
 - Credit: 3 ECTS credits
