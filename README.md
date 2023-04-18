@@ -83,7 +83,8 @@ Friday afternoon we will have a [peer review session](./course/peer-review.md). 
 
 | Time | Who | Activity |
 |:--|:--|:--|
-| 14:00 | Tribe *+(Shyanta \|\| Justus)* | Peer review |
+| 9:30 | Tribe *+(Shyanta \|\| Justus)* | Peer review |
+| 11:00 | Tribe *+(Shyanta \|\| Justus)* | Afronding Peer review |
 
 ### Week 2 - Sockets and data
 Goal: Store, manipulate and share data between server-client   
