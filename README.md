@@ -90,7 +90,7 @@ Friday ~~afternoon~~ morning we will have a [peer review session](./course/peer-
 Goal: Store, manipulate and share data between server-client   
 
 #### Monday 24 April
-**Talk subjects:** Data driven development?! [(slides)]() Feedback about last week, final assignment and conditions (rubric), explanation of data management, Long polling vs Websockets. \
+**Talk subjects:** Data driven development?! [(slides)](https://docs.google.com/presentation/d/1WC1DxkQm2eUCTQp7dEfv0cTVMK7zlg3der0P0qP7S5I) Feedback about last week, final assignment and conditions (rubric), explanation of data management, Long polling vs Websockets. \
 **Day assignment:** [(assignment)](./course/week-2.md#assignment-1-proof-of-concept) (Proof of) Concept *(individually)*. i) Create a (3 > 1) concept based on existing data from an API and ii) map this data using modelling techniques.
 
 #### Tuesday 25 April
