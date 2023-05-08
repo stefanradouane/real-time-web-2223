@@ -70,7 +70,7 @@ To keep things simple we use a daily schedule that will be used during normal co
 Goal: Build and deploy a simple but unique real-time app
 
 #### Monday 17 April 
-**Talk subjects:** Hit the ground running... [(slides)](https://docs.google.com/presentation/d/1MLSch_uKNEDyfz7fo71jbJrprunxQwd9GtgTse8wWpo/edit?usp=sharing) Course objective and explanation of the assignment, examples from last year, explanation of real-time, (live coded) bare bone chat app and deployment on Heroku.\
+**Talk subjects:** Hit the ground running... [(slides)](https://docs.google.com/presentation/d/1MLSch_uKNEDyfz7fo71jbJrprunxQwd9GtgTse8wWpo) Course objective and explanation of the assignment, examples from last year, explanation of real-time, (live coded) bare bone chat app and deployment on Heroku.\
 **Day assignment:** [(assignment)](./course/week-1.md#assignment-1-make-it-so) Make it so *(as a team)*: Implement (code/style/discuss/deploy) basic chat (or other realtime) functionality on your teampage!
 
 #### Tuesday 18 April
@@ -94,14 +94,14 @@ Goal: Store, manipulate and share data between server-client
 **Day assignment:** [(assignment)](./course/week-2.md#assignment-1-proof-of-concept) (Proof of) Concept *(individually)*. i) Create a (3 > 1) concept based on existing data from an API and ii) map this data using modelling techniques.
 
 #### Tuesday 25 April
-**Talk subjects:** Above all else, show the data. [(slides)](https://docs.google.com/presentation/d/1tW4klrDjt1AfWte311uKkfQYwaHwokzQ-ue3a4VphqA/edit?usp=sharing) Securing real-time web apps, offline support, the publication/subscription model\
+**Talk subjects:** Above all else, show the data. [(slides)](https://docs.google.com/presentation/d/1tW4klrDjt1AfWte311uKkfQYwaHwokzQ-ue3a4VphqA) Securing real-time web apps, offline support, the publication/subscription model\
 **Day assignment:** [(assignment)](./course/week-2.md#assignment-2-proof-of-concept) Proof of concept *(individually)*: i) Create (code/style/discuss/deploy) part of the core functionality for your concept and ii) show the  corresponding data lifecycle diagram.
 
 ### Week 3 - Dealing with multiple users
 Goal: Handle data sharing and multi-user support 
 
 #### Monday 8 May
-**Talk subjects:** Roll your own... [(slides) ]() Data management, the functional programming trinity (map, filter and reduce). OAuth?!
+**Talk subjects:** Roll your own... [(slides) ](https://docs.google.com/presentation/d/1ACuUJ-B19hgFN2CCTYH8ClN0WD69ok8ZVnkRGbU0FjA) Data management, the functional programming trinity (map, filter and reduce). OAuth?!
 **Day assignment:** [(assignment)](./course/week-3.md#assignment-1-data-management)
 
 #### Tuesday 9 May
